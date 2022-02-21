@@ -12,6 +12,3 @@ The purpose of this dataset was to explore statistic distributions in streaming 
 
 Due to the recent update to this dataset made in 2021/12, which removed several features that had been the target 
 of analysis in this project, most results in this analysis are likely deprecated. 
-
-I have made available the used/previous version of this dataset in the google drive link below:
-https://drive.google.com/drive/folders/1xXZ5zB8aoLlFf87wW_lvkq3LePEJJf_j?usp=sharing
